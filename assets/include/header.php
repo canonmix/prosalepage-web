@@ -113,7 +113,7 @@
 						</ul>
 					</nav>
 					<div class="header-btn">
-						<a href="https://cms.prosalepage.com/login" class="btn btn-orange btn-icon-left">
+						<a href="https://cms-prosalepage.com/login" class="btn btn-orange btn-icon-left">
 							<span class="icon">
 								<img src="/assets/images/commons/icon-login.svg" width="20" height="20" alt="เข้าสู่ระบบ"/>
 							</span>
