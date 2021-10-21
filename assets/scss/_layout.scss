@@ -336,6 +336,16 @@ a:hover, a:hover img, a:hover {
 	color: #fff;
 }
 
+.active-mn1 .mn1::after,
+.active-mn2 .mn2::after,
+.active-mn3 .mn3::after,
+.active-mn4 .mn4::after,
+.active-mn5 .mn5::after,
+.active-mn6 .mn6::after,
+.active-mn7 .mn7::after, {
+	width: 100% !important;
+}
+
 /* Header */
 header {
 	position: fixed;
@@ -1413,6 +1423,119 @@ header {
 					left: 0;
 					width: 100%;
 					height: 100%;
+				}
+			}
+		}
+		
+	}
+}
+
+
+/* Article */
+#article {
+	.article {
+		.article-list {
+			ul {
+				display: -webkit-box;
+				display: -ms-flexbox;
+				display: flex;
+				-ms-flex-wrap: wrap;
+				    flex-wrap: wrap;
+				-webkit-box-pack: justify;
+				    -ms-flex-pack: justify;
+				        justify-content: space-between;
+				@include mediaquery-750 {
+					display: block;
+				}
+				margin-top: -3%;
+				li {
+					width: 31.33%;
+					margin-top: 3%;
+					background-color: #fff;
+					-webkit-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.05);
+					box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.05);
+					border-radius: 5px;
+					overflow: hidden;
+					@include mediaquery-750 {
+						width: 100%;
+					}
+					a {
+						display: block;
+						.img {
+							img {
+								width: 100%;
+								height: auto;
+							}
+						}
+						.text {
+							padding: 20px 25px;
+							@include mediaquery-750 {
+								padding: 10px 15px;	
+							}
+							h3 {
+								font-size: 2.4rem;
+								line-height: 3.4rem;
+								font-weight: 500;
+								color: #273E62;
+								@include mediaquery-750 {
+									font-size: 2rem;
+									line-height: 3rem;
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	.article-detail {
+		position: relative;
+		.text {
+			position: relative;
+			&::after {
+				content: '';
+				position: relative;
+				display: block;
+				clear: both;
+			}
+			h2 {
+				font-size: 2.4rem;
+				line-height: 3.4rem;
+				font-weight: 500;
+				color: #273E62;
+				margin-bottom: 10px;
+			}
+			.img {
+				float: right;
+				width: 40%;
+				margin-top: 5px;
+				margin-left: 50px;
+			}
+			p {
+				& + p {
+					margin-top: 15px;
+				}
+			}
+			h3 {
+				margin-top: 15px;
+				margin-bottom: 5px;
+			}
+			ul {
+				margin-left: 20px;
+				li {
+					list-style: disc;
+				}
+				& + p {
+					margin-top: 15px;
+				}
+			}
+			.share {
+				margin-top: 15px;
+				ul {
+					margin-left: 0;
+					li {
+						list-style: none;
+					}
 				}
 			}
 		}

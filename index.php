@@ -474,11 +474,74 @@ define( 'PAGE_CLASS', '' );
 				</div>
 			</section>
 			<!--End Howto-->
+
+			<!--Article-->
+			<a class="getsection"></a>
+			<a id="section-article" class="anchor"></a>
+			<section id="article" class="pad80">
+				<div class="article content-1180">
+					<div class="txthead-box center">
+						<h2 class="fz36">
+							บทความ
+						</h2>
+					</div>
+					<div class="article-list">
+						<ul>
+							<li>
+								<a href="/article/เซลเพจคืออะไร">
+									<div class="img">
+										<img src="/assets/images/article/cover-01.webp" width="370" height="370" alt="เซลเพจคืออะไร"/>
+									</div>
+									<div class="text">
+										<h3>
+											เซลเพจ คืออะไร?
+										</h3>
+										<p>
+											Sale Page (เซลเพจ) คือ เครื่องมือสำหรับขายของออนไลน์ ที่ถูกจัดทำขึ้นมาในรูปแบบของ...
+										</p>
+									</div>
+								</a>
+							</li>
+							<li>
+								<a href="/article/เซลเพจเหมาะกับธุรกิจออนไลน์แบบไหน">
+									<div class="img">
+										<img src="/assets/images/article/cover-02.webp" width="370" height="370" alt="เซลเพจ เหมาะกับธุรกิจออนไลน์แบบไหน?"/>
+									</div>
+									<div class="text">
+										<h3>
+											เซลเพจ เหมาะกับธุรกิจออนไลน์แบบไหน?
+										</h3>
+										<p>
+											Sale Page (เซลเพจ) เหมาะกับธุรกิจค้าขายออนไลน์ทุกรูปแบบ เพราะในหนึ่งหน้า...
+										</p>
+									</div>
+								</a>
+							</li>
+							<li>
+								<a href="/article/เซลเพจดีกว่าทำแฟนเพจจริงหรือไม่">
+									<div class="img">
+										<img src="/assets/images/article/cover-03.webp" width="370" height="370" alt="เซลเพจ ดีกว่าทำแฟนเพจจริงหรือไม่?"/>
+									</div>
+									<div class="text">
+										<h3>
+											เซลเพจ ดีกว่าทำแฟนเพจจริงหรือไม่?
+										</h3>
+										<p>
+											คำตอบนี้ ขอตอบว่า "ดีคนละแบบ" เพราะทั้งสองอย่างนี้ต่างก็มีข้อดีแตกต่างกัน ถ้าเป็น...
+										</p>
+									</div>
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</section>
+			<!--End Article-->
 			
 			<!--Portfolio-->
 			<a class="getsection"></a>
 			<a id="section-port" class="anchor"></a>
-			<section id="port" class="pad80">
+			<section id="port" class="pad80 bg-grey-light">
 				<div class="port content-1180">
 					<div class="txthead-box center">
 						<h2 class="fz36">

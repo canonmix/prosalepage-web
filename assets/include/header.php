@@ -39,71 +39,81 @@
 					<nav class="menu">
 						<ul class="top">
 							<li>
-								<a href="#section-mv" class="scrollsmooth">
+								<a href="#section-mv" class="scrollsmooth mn1">
 									หน้าหลัก
 								</a>
 							</li>
 							<li>
-								<a href="#section-function" class="scrollsmooth">
+								<a href="#section-function" class="scrollsmooth mn2">
 									ฟีเจอร์
 								</a>
 							</li>
 							<li>
-								<a href="#section-package" class="scrollsmooth">
+								<a href="#section-package" class="scrollsmooth mn3">
 									ราคาแพ็คเกจ
 								</a>
 							</li>
 							<li>
-								<a href="#section-faq" class="scrollsmooth">
+								<a href="#section-faq" class="scrollsmooth mn4">
 									คำถามที่พบบ่อย
 								</a>
 							</li>
 							<li>
-								<a href="#section-howto" class="scrollsmooth">
+								<a href="#section-howto" class="scrollsmooth mn5">
 									วิธีสร้างเซลเพจ
 								</a>
 							</li>
 							<li>
-								<a href="#section-port" class="scrollsmooth">
+								<a href="#section-article" class="scrollsmooth mn6">
+									บทความ
+								</a>
+							</li>
+							<li>
+								<a href="#section-port" class="scrollsmooth mn7">
 									ลูกค้าของเรา
 								</a>
 							</li>
 						</ul>
 						<ul class="inner">
 							<li>
-								<a href="/">
+								<a href="/" class="mn1">
 									หน้าหลัก
 								</a>
 							</li>
 							<li>
-								<a href="/#section-function">
+								<a href="/#section-function" class="mn2">
 									ฟีเจอร์
 								</a>
 							</li>
 							<li>
-								<a href="/#section-package">
+								<a href="/#section-package" class="mn3">
 									ราคาแพ็คเกจ
 								</a>
 							</li>
 							<li>
-								<a href="/#section-faq">
+								<a href="/#section-faq" class="mn4">
 									คำถามที่พบบ่อย
 								</a>
 							</li>
 							<li>
-								<a href="/#section-howto">
+								<a href="/#section-howto" class="mn5">
 									วิธีสร้างเซลเพจ
 								</a>
 							</li>
 							<li>
-								<a href="/#section-port">
+								<a href="/#section-article" class="mn6">
+									บทความ
+								</a>
+							</li>
+							<li>
+								<a href="/#section-port" class="mn7">
 									ลูกค้าของเรา
 								</a>
 							</li>
 						</ul>
 					</nav>
 					<div class="header-btn">
-						<a href="https://cms-prosalepage.com/login" class="btn btn-orange btn-icon-left">
+						<a href="https://cms.prosalepage.com/login" class="btn btn-orange btn-icon-left">
 							<span class="icon">
 								<img src="/assets/images/commons/icon-login.svg" width="20" height="20" alt="เข้าสู่ระบบ"/>
 							</span>
@@ -127,64 +137,74 @@
 		<div class="menu-responsive">
 			<ul class="top">
                 <li>
-                    <a href="#section-mv" class="scrollsmooth">
+                    <a href="#section-mv" class="scrollsmooth mn1">
                         หน้าหลัก
                     </a>
                 </li>
                 <li>
-                    <a href="#section-function" class="scrollsmooth">
+                    <a href="#section-function" class="scrollsmooth mn2">
                         ฟีเจอร์
                     </a>
                 </li>
                 <li>
-                    <a href="#section-package" class="scrollsmooth">
+                    <a href="#section-package" class="scrollsmooth mn3">
                         ราคาแพ็คเกจ
                     </a>
                 </li>
                 <li>
-                    <a href="#section-faq" class="scrollsmooth">
+                    <a href="#section-faq" class="scrollsmooth mn4">
                         คำถามที่พบบ่อย
                     </a>
                 </li>
                 <li>
-                    <a href="#section-howto" class="scrollsmooth">
+                    <a href="#section-howto" class="scrollsmooth mn5">
                         วิธีสร้างเซลเพจ
                     </a>
                 </li>
+				<li>
+                    <a href="#section-article" class="scrollsmooth mn6">
+                        บทความ
+                    </a>
+                </li>
                 <li>
-                    <a href="#section-port" class="scrollsmooth">
+                    <a href="#section-port" class="scrollsmooth mn7">
                         ลูกค้าของเรา
                     </a>
                 </li>
 			</ul>
             <ul class="inner">
                 <li>
-                    <a href="/">
+                    <a href="/" class="mn1">
                         หน้าหลัก
                     </a>
                 </li>
                 <li>
-                    <a href="/#section-function">
+                    <a href="/#section-function" class="mn2">
                         ฟีเจอร์
                     </a>
                 </li>
                 <li>
-                    <a href="/#section-package">
+                    <a href="/#section-package" class="mn3">
                         ราคาแพ็คเกจ
                     </a>
                 </li>
                 <li>
-                    <a href="/#section-faq">
+                    <a href="/#section-faq" class="mn4">
                         คำถามที่พบบ่อย
                     </a>
                 </li>
                 <li>
-                    <a href="/#section-howto">
+                    <a href="/#section-howto" class="mn5">
                         วิธีสร้างเซลเพจ
                     </a>
                 </li>
+				<li>
+                    <a href="/#section-article" class="mn6">
+                        บทความ
+                    </a>
+                </li>
                 <li>
-                    <a href="/#section-port">
+                    <a href="/#section-port" class="mn7">
                         ลูกค้าของเรา
                     </a>
                 </li>
